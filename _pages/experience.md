@@ -5,8 +5,8 @@ permalink: /experience/
 author_profile: true
 ---
 
-## Tekever / Instituto Superior Técnico  
-# Research Fellow
+# Tekever / Instituto Superior Técnico  
+## Research Fellow
 **Worked on the WP ARX research project, part of the AERO.NEXT Portugal agenda, in cooperation with Tekever, a European leader in maritime surveillance for Unmanned Aircraft Systems** (9/2023 – 12/2025)
 
 - Integrated into a group of 10+ researchers, attending weekly meetings to explain the research developments with the Instituto Superior Técnico supervisors and quarterly meetings with Tekever, presenting the main research breakthroughs.
