@@ -2,18 +2,10 @@
 
 Name Name:
   name: "João Maria Félix Mendes"
-  position: "PhD Student, Aerospace Engineering"
+  position: "PhD Student in Aerospace Engineering"
   affiliation: "LARSyS & Instituto Superior Técnico"
   email: "joao.felix.mendes@tecnico.ulisboa.pt"
   github: "https://github.com/joaom2a0r0i1a"
-  linkedin: "LINK HERE"
+  linkedin: "https://www.linkedin.com/in/joão-maria-mendes"
   google_scholar: ""
-  avatar: "assets/img/profile.jpg"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+  avatar: "assets/img/CV_profile_cut.jpg"
