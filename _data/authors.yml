@@ -1,13 +1,14 @@
 # Authors
 
 Name Name:
-  name        : "Name Name"
-  uri         : "https://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+  name: "João Maria Félix Mendes"
+  position: "PhD Student, Aerospace Engineering"
+  affiliation: "LARSyS & Instituto Superior Técnico"
+  email: "joao.felix.mendes@tecnico.ulisboa.pt"
+  github: "https://github.com/joaom2a0r0i1a"
+  linkedin: "LINK HERE"
+  google_scholar: ""
+  avatar: "assets/img/profile.jpg"
 
 Name2 Name2:
   name        : "Name2 Name2"
